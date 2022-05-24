@@ -1,3 +1,3 @@
 ## Let's Revise Microsoft Azure Cloud
 
-### Compute Service 
+### 1. Compute Service 
