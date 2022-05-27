@@ -5,6 +5,7 @@
 - <b>Azure Virtual Machine Scale Sets</b> - Scaling for Windows or Linux VMs hosted in Azure.
 - <b>Azure Kubernetes Service</b>
 - <b>Azure Service Fabric</b>
+- <b>Azure Batch</b>
 ### 2. Storage Services
 ### 3. Networking Services
 ### 4. Database Services
