@@ -7,6 +7,7 @@
 - <b>Azure Service Fabric</b>
 - <b>Azure Batch</b>
 - <b>Azure Container Instances</b>
+- <b>Azure Functions</b>
 ### 2. Storage Services
 ### 3. Networking Services
 ### 4. Database Services
