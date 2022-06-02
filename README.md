@@ -4,7 +4,7 @@
 - <b>Azure Virtual Machines</b> - Windows or Linux virtual machines (VMs) hosted in Azure.
 - <b>Azure Virtual Machine Scale Sets</b> - Scaling for Windows or Linux VMs hosted in Azure.
 - <b>Azure Kubernetes Service</b> - Cluster management for VMs that run containerized services.
-- <b>Azure Service Fabric</b>
+- <b>Azure Service Fabric</b> - Distributed systems platform that runs in Azure or on-premises.
 - <b>Azure Batch</b>
 - <b>Azure Container Instances</b>
 - <b>Azure Functions</b>
