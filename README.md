@@ -7,7 +7,7 @@
 - <b>Azure Service Fabric</b> - Distributed systems platform that runs in Azure or on-premises.
 - <b>Azure Batch</b> - Managed service for parallel and high-performance computing applications.
 - <b>Azure Container Instances</b> - Containerized apps run on Azure without provisioning servers or VMs.
-- <b>Azure Functions</b>
+- <b>Azure Functions</b> - An event-driven, serverless compute service.
 ### 2. Storage Services
 ### 3. Networking Services
 ### 4. Database Services
