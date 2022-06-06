@@ -9,6 +9,7 @@
 - <b>Azure Container Instances</b> - Containerized apps run on Azure without provisioning servers or VMs.
 - <b>Azure Functions</b> - An event-driven, serverless compute service.
 ### 2. Storage Services
+- <b>Azure Blob storage</b>
 ### 3. Networking Services
 ### 4. Database Services
 ### 5. Mobile Services
