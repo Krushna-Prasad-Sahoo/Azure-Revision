@@ -10,6 +10,7 @@
 - <b>Azure Functions</b> - An event-driven, serverless compute service.
 ### 2. Storage Services
 - <b>Azure Blob storage</b>
+- Azure File storage
 ### 3. Networking Services
 ### 4. Database Services
 ### 5. Mobile Services
