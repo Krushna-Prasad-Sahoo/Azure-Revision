@@ -13,6 +13,7 @@
 - <b>Azure Blob storage</b>
 - <b>Azure File storage</b>
 - <b>Azure Queue storage</b>
+- <b>Azure Table storage</b>
 ### 3. Networking Services
 ### 4. Database Services
 ### 5. Mobile Services
