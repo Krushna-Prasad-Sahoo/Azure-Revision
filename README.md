@@ -10,6 +10,7 @@
 - <b>Azure Container Instances</b> - Containerized apps run on Azure without provisioning servers or VMs.
 - <b>Azure Functions</b> - An event-driven, serverless compute service.
 ### 2. Storage Services
+(Azure provides four main types of storage services.)
 - <b>Azure Blob storage</b>
 - <b>Azure File storage</b>
 - <b>Azure Queue storage</b>
