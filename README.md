@@ -13,7 +13,7 @@
 (Azure provides four main types of storage services.)
 - <b>Azure Blob storage</b> - Storage service for very large objects, such as video files or bitmaps.
 - <b>Azure File storage</b> - File shares that can be accessed and managed like a file server.
-- <b>Azure Queue storage</b>
+- <b>Azure Queue storage</b> - A data store for queuing and reliably delivering messages between applications.
 - <b>Azure Table storage</b>
 ### 3. Networking Services
 ### 4. Database Services
