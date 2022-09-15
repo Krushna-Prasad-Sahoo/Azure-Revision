@@ -17,7 +17,9 @@
 - <b>Azure Table storage</b> - Table storage is a service that stores non-relational structured data (also known as structured NoSQL data) in the cloud, providing a key/attribute store with a schemaless design.
 
 All these services have some common characteristics. They are :
+
   Durable and highly available with redundancy and replication.
+  Secure through automatic encryption and role-based access control.
 
 
 ### 3. Networking Services
