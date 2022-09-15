@@ -22,6 +22,7 @@ All these services have some common characteristics. They are :
   Secure through automatic encryption and role-based access control.
   Scalable with virtually unlimited storage.
   Managed, handling maintenance and any critical problems for you.
+  Accessible from anywhere in the world over HTTP or HTTPS.
 
 
 ### 3. Networking Services
