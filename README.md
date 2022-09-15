@@ -15,6 +15,10 @@
 - <b>Azure File storage</b> - File shares that can be accessed and managed like a file server.
 - <b>Azure Queue storage</b> - A data store for queuing and reliably delivering messages between applications.
 - <b>Azure Table storage</b> - Table storage is a service that stores non-relational structured data (also known as structured NoSQL data) in the cloud, providing a key/attribute store with a schemaless design.
+
+All these services have some common characteristics.
+
+
 ### 3. Networking Services
 ### 4. Database Services
 ### 5. Mobile Services
