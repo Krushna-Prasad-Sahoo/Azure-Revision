@@ -21,6 +21,7 @@ All these services have some common characteristics. They are :
   Durable and highly available with redundancy and replication.
   Secure through automatic encryption and role-based access control.
   Scalable with virtually unlimited storage.
+  Managed, handling maintenance and any critical problems for you.
 
 
 ### 3. Networking Services
