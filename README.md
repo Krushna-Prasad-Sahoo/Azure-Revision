@@ -26,6 +26,8 @@ All these services have some common characteristics. They are :
 
 
 ### 3. Networking Services
+(Linking compute resources and providing access to applications is the key function of Azure networking. Networking functionality in Azure includes a range of options to connect the outside world to services and features in the global Azure datacenters.)
+
 ### 4. Database Services
 ### 5. Mobile Services
 
