@@ -29,6 +29,10 @@ All these services have some common characteristics. They are :
 (Linking compute resources and providing access to applications is the key function of Azure networking. Networking functionality in Azure includes a range of options to connect the outside world to services and features in the global Azure datacenters.)
 - <b>Azure Virtual Network</b> - Connects VMs to incoming virtual private network (VPN) connections.
 - <b>Azure Load Balancer</b> - Balances inbound and outbound connections to applications or service endpoints.
+- <b>Azure Application Gateway</b> - Optimizes app server farm delivery while increasing application security.
+- <b>Azure VPN Gateway</b> - Accesses Azure Virtual Networks through high-performance VPN gateways.
+
+
 
 ### 4. Database Services
 ### 5. Mobile Services
