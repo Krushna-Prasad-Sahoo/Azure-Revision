@@ -31,6 +31,9 @@ All these services have some common characteristics. They are :
 - <b>Azure Load Balancer</b> - Balances inbound and outbound connections to applications or service endpoints.
 - <b>Azure Application Gateway</b> - Optimizes app server farm delivery while increasing application security.
 - <b>Azure VPN Gateway</b> - Accesses Azure Virtual Networks through high-performance VPN gateways.
+- <b>Azure DNS</b> - Provides ultra-fast DNS responses and ultra-high domain availability.
+
+
 
 
 
