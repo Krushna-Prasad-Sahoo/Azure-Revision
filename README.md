@@ -32,6 +32,10 @@ All these services have some common characteristics. They are :
 - <b>Azure Application Gateway</b> - Optimizes app server farm delivery while increasing application security.
 - <b>Azure VPN Gateway</b> - Accesses Azure Virtual Networks through high-performance VPN gateways.
 - <b>Azure DNS</b> - Provides ultra-fast DNS responses and ultra-high domain availability.
+- <b>Azure Content Delivery Network</b> - Delivers high-bandwidth content to customers globally.
+- <b>Azure DDoS Protection</b> - Protects Azure-hosted applications from distributed denial of service (DDOS) attacks.
+
+
 
 
 
